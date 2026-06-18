@@ -14,14 +14,11 @@ function MessageCard({ isActive }) {
   const messageContentRef = useRef(null);
 
   const message = `[Raghavi],
+  
+Have an amazing academic year ahead! Wishing you lots of luck, success, and happiness in everything you do.
 
-Your personalized birthday message goes here.
+Keep dominating in your field as always and continue achieving great things. You’ve got this!
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
-
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
 
 Happy Birthday! 🎉
 
