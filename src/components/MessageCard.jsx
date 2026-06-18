@@ -13,7 +13,7 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Raghavi],
+  const message = `Raghavi,
   
 Have an amazing academic year ahead! Wishing you lots of luck, success, and happiness in everything you do.
 
@@ -22,7 +22,7 @@ Keep dominating in your field as always and continue achieving great things. You
 
 Happy Birthday! 🎉
 
-— [Nandhu]`;
+— Nandhu`;
 
   // Handle page transitions
   useEffect(() => {
